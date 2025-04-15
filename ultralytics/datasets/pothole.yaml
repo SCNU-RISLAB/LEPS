@@ -1,0 +1,11 @@
+# -*- coding: utf-8 -*-
+path: ../seg # dataset root dir
+train: trains/images 
+val:   vals/images  
+test:  # test images (optional)
+
+# Classes
+names:
+  0: pothole
+
+
